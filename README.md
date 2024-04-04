@@ -25,7 +25,7 @@ in a competition composed of CS/Marketing Majors from USM. Did not win
 any awards.
 
 ### Personal Website: USM Honors College Supplemental Item
-[https://swammbr54.github.io/WHRHonors/](https://swammbr54.github.io/WHRHonors/)
+[https://swammbr54.github.io/WHRHonors/web/index.html](https://swammbr54.github.io/WHRHonors/web/index.html)
 
 Static Website hosted through Github Pages, built using HTML/CSS as a part 
 of an application to the University of Southern Misssissippi Honors College.
