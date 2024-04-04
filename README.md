@@ -10,7 +10,7 @@ Dual Enrollment Backend/Serverside Development class. Does not support JS
 functionality
 
 ### 2024 Class-built Website (Responsive): Cartographer's Corner (Unfinished)
-[insert link here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[(https://swammbr54.github.io/Cartographers-Corner/)](https://swammbr54.github.io/Cartographers-Corner/)
 
 Static Mock Website hosted through Github Pages, built using HTML/CSS/JS for a
 Dual Enrollment Frontend/Clientside Development class. 
@@ -27,9 +27,16 @@ any awards.
 ### Personal Website: USM Honors College Supplemental Item
 [(https://swammbr54.github.io/WHRHonors/)](https://swammbr54.github.io/WHRHonors/)
 
+Static Website hosted through Github Pages, built using HTML/CSS as a part 
+of an application to the University of Southern Misssissippi Honors College.
 
 ### Score Calculator: REC Foundation 2024 Drones Competition
 [https://swammbr54.github.io/RECDronesPointCalc/pointcalc.html](https://swammbr54.github.io/RECDronesPointCalc/pointcalc.html)
+
+Static Website hosted through Github Pages, built using HTML/CSS/JS as a
+complimentary score calculator for the 2024 REC Drones Competition, aiming
+to reduce the time/effort needed to calculate practice scores for the different
+game scenarios.
 
 
 ## Other-Projects
