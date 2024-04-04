@@ -1,4 +1,4 @@
-# WHR-Web-Portfolio
+# WHR-Portfolio
 Web Portfolio for W.H.Rudisill
 
 ## Web-Projects
