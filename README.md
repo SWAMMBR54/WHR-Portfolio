@@ -5,14 +5,14 @@ Web Portfolio for W.H.Rudisill
 ### 2023 Class-built Website (Nonresponsive): Portfolio Website
 [https://swammbr54.github.io/WebPortfolio/portfolio-bootstrap/](https://swammbr54.github.io/WebPortfolio/portfolio-bootstrap/)
 
--- Static Mock Website hosted through Github Pages, built using HTML/CSS for a
+Static Mock Website hosted through Github Pages, built using HTML/CSS for a
 Dual Enrollment Backend/Serverside Development class. Does not support JS
 functionality
 
 ### 2024 Class-built Website (Responsive): Cartographer's Corner (Unfinished)
 [insert link here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
--- Static Mock Website hosted through Github Pages, built using HTML/CSS/JS for a
+Static Mock Website hosted through Github Pages, built using HTML/CSS/JS for a
 Dual Enrollment Frontend/Clientside Development class. 
 
 ### 2023 USM Hackathon Project: NutritionNinja
