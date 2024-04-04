@@ -10,13 +10,13 @@ Dual Enrollment Backend/Serverside Development class. Does not support JS
 functionality
 
 ### 2024 Class-built Website (Responsive): Cartographer's Corner (Unfinished)
-[(https://swammbr54.github.io/Cartographers-Corner/)](https://swammbr54.github.io/Cartographers-Corner/)
+[https://swammbr54.github.io/Cartographers-Corner/](https://swammbr54.github.io/Cartographers-Corner/)
 
 Static Mock Website hosted through Github Pages, built using HTML/CSS/JS for a
 Dual Enrollment Frontend/Clientside Development class. 
 
 ### 2023 USM Hackathon Project: NutritionNinja
-[(https://tyreeeddings.github.io/nutritionninja/)](https://tyreeeddings.github.io/nutritionninja/)
+[https://tyreeeddings.github.io/nutritionninja/](https://tyreeeddings.github.io/nutritionninja/)
 
 Static Website hosted through Github Pages, built using HTML/CSS/JS as a
 part of a Hackathon hosted by the University of Southern Mississippi and
@@ -25,7 +25,7 @@ in a competition composed of CS/Marketing Majors from USM. Did not win
 any awards.
 
 ### Personal Website: USM Honors College Supplemental Item
-[(https://swammbr54.github.io/WHRHonors/)](https://swammbr54.github.io/WHRHonors/)
+[https://swammbr54.github.io/WHRHonors/](https://swammbr54.github.io/WHRHonors/)
 
 Static Website hosted through Github Pages, built using HTML/CSS as a part 
 of an application to the University of Southern Misssissippi Honors College.
