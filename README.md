@@ -35,7 +35,7 @@ Includes:
 * Recursive gameplay loop
 * Ease-of-access text options
 
-### Text-Based Dungeon Crawl (WIP)
+### RPyG Dungeon Crawler (WIP)
 *DOWNLOAD REQUIRED TO RUN*
 
 Text-based Dungeon RPG built entirely in Python.
