@@ -1,5 +1,5 @@
 #Spell Matrix
-spells = [["Firebolt","Shield","Healing Word"],
+spells = [["Firebolt","Shield","Heal"],
             ["enemy","self","self"],
             [1,0,0],
             [1,3,1],
